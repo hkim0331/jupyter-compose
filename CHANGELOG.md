@@ -3,7 +3,7 @@
 ## Unreleased
 - WSL2 のインストール・アンインストールの方法
 
-## 2022-02-23
+## 0.1.0 - 2022-02-23
 ### Added
 - remote repository https://github.com/hkim0331/jupyter-compose.git
 
