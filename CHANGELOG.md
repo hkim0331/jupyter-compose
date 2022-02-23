@@ -1,4 +1,6 @@
-# my-jupyter
+# jupyter-compose
+
+docker compose で jupyter を立ち上げるまで。
 
 ## Unreleased
 - WSL2 のインストール・アンインストールの方法
