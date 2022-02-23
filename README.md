@@ -24,13 +24,12 @@ Windows の Docker Desktop は良くないって話がたくさんネットで�
 俺は
 「自分の Windows だから管理者権限でログインする」
 って疑問のかけらもない人たちを信じない。
-え？大学の情報の先生だって？やだなあ、もう。
+え？大学の情報の先生だって？それ、学生に教えるの？やだなあ、もう。
 
-macOS は楽ちんでいける。
+macOS なら楽ちんでいける。みんなマックにすればよかったのに。
 
 https://www.idnet.co.jp/column/page_187.html
 
-みんなマックにすればよかったのに。
 
 ## Windows/WSL に docker engine
 
