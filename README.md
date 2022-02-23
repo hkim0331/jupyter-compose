@@ -28,16 +28,15 @@ Windows の Docker Desktop は良くないって話がたくさんネットで�
 
 macOS なら楽ちんでいける。みんなマックにすればよかったのに。
 
-https://www.idnet.co.jp/column/page_187.html
-
-
 ## Windows/WSL に docker engine
 
 どうせ WSL に依存するんだから WSL で Docker してみたら？
 そう考えるのは普通のようで、何人もの先人が足跡を書き残してくれている。
 例えば、
 
-https://zenn.dev/taiga533/articles/11f1b21ef4a5ff
+* https://zenn.dev/taiga533/articles/11f1b21ef4a5ff
+
+* https://www.idnet.co.jp/column/page_187.html
 
 Thanks a lot!
 
