@@ -2,7 +2,7 @@ version: "3"
 services:
   jupyter:
     build: .
-    entrypoint: >
+    entrypoint:
       jupyter-lab
       --allow-root
       --ip=0.0.0.0

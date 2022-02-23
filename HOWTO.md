@@ -29,3 +29,11 @@ DO NOT FOLLOW ME.
 
 4. ブラウザで localhost:8888 をオープン。
 
+## ChromeBook
+
+1. open terminal
+2. git clone https://github.com/hkim0331/jupyter-compose.git
+3. cd jupyter-compose
+4. $ docker-compose up -d
+5. open localhost:8888
+
