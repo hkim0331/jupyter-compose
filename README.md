@@ -24,21 +24,18 @@ Windows の Docker Desktop は良くないって話がたくさんネットで�
 俺は
 「自分の Windows だから管理者権限でログインする」
 って疑問のかけらもない人たちを信じない。
-え？大学の情報の先生だって？やだなあ、もう。
 
-macOS は楽ちんでいける。
+マックは楽ちんでいける。みんなマックにすればよかったのに。
 
-https://www.idnet.co.jp/column/page_187.html
+## Windows/WSL に DockerEngine
 
-みんなマックにすればよかったのに。
-
-## Windows/WSL に docker engine
-
-どうせ WSL に依存するんだから WSL で Docker してみたら？
+Docker するとなったらどうせ WSL に依存するんでしょ。
+だったらそっちで jupyter してみたら？
 そう考えるのは普通のようで、何人もの先人が足跡を書き残してくれている。
 例えば、
 
-https://zenn.dev/taiga533/articles/11f1b21ef4a5ff
+* https://zenn.dev/taiga533/articles/11f1b21ef4a5ff
+* https://www.idnet.co.jp/column/page_187.html
 
 Thanks a lot!
 
