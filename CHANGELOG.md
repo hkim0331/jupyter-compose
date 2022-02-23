@@ -4,6 +4,8 @@
 - WSL2 のインストール・アンインストールの方法
 
 ## 2022-02-23
+### Added
+- remote repository https://github.com/hkim0331/jupyter-compose.git
 
 ### Changed
 - Dockerfile ... version.py をコピーするように変更した。
