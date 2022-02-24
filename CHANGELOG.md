@@ -8,7 +8,13 @@ docker compose で jupyter を立ち上げるまで。
 
 
 ## 0.2.0-SNAPSHOT
-（今ここ）
+### Changed
+- install-docker-engine.sh
+  インストールする docker-compose のバージョンを 1.29.3 から 2.2.3 に変更した。
+### Added
+- uninstall-docker-engine.sh
+  /usr/local/bin/docker-compose を消し、
+  docker-ce, docker-ce-cli containerd.io を削除する。
 
 ## 0.1.0 - 2022-02-23
 ### Added
