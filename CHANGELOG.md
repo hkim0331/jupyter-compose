@@ -6,6 +6,8 @@ docker compose で jupyter を立ち上げるまで。
 - WSL2 のインストール・アンインストールの方法
 - windows でのインストール手順確認
 
+## 0.2.1 - 2022-02-24
+- タグの打ち直し。
 
 ## 0.2.0-SNAPSHOT
 ### Changed
