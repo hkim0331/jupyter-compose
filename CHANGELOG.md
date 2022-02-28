@@ -1,7 +1,22 @@
-# my-jupyter
+# jupyter-compose
+
+docker compose で jupyter を立ち上げるまで。
 
 ## Unreleased
 - WSL2 のインストール・アンインストールの方法
+- windows でのインストール手順確認
+
+## 0.2.1 - 2022-02-24
+- タグの打ち直し。
+
+## 0.2.0-SNAPSHOT
+### Changed
+- install-docker-engine.sh
+  インストールする docker-compose のバージョンを 1.29.3 から 2.2.3 に変更した。
+### Added
+- uninstall-docker-engine.sh
+  /usr/local/bin/docker-compose を消し、
+  docker-ce, docker-ce-cli containerd.io を削除する。
 
 ## 0.1.0 - 2022-02-23
 ### Added

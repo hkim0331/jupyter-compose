@@ -1,6 +1,6 @@
 #!/bin/sh
 #
-# DockerEngine installer for ubuntu
+# DockerEngine installer for ubuntu/WSL2.
 #
 # thanks,
 # https://zenn.dev/taiga533/articles/11f1b21ef4a5ff
@@ -28,8 +28,8 @@ echo \
 sudo apt update
 sudo apt install docker-ce docker-ce-cli containerd.io
 
-# docker-composeのインストール
-sudo curl -L "https://github.com/docker/compose/releases/download/1.29.2/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
+# docker-composeのインストール (s/1.29.3/2.2.3/)
+sudo curl -L "https://github.com/docker/compose/releases/download/v2.2.3/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
 sudo chmod +x /usr/local/bin/docker-compose
 
 # docker daemonの起動
