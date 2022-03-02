@@ -9,9 +9,21 @@ Python は嫌いだ。だが、授業で扱わないといけない。
 ## 生 Windows, 生 macOS にpython/jupyter
 
 もっとも敬遠したいコース。
-
 やってはみたが、動かすまでできたが、どうやったんだったか、記録するの忘れた。
 
+requirements.txt に、
+
+    jupyterlab
+    matplotlib
+
+```sh
+$ pip install --no-cache-dir requrements.txt
+```
+
+でどうだったか？
+
+jupyterlab は jupyter notebook の後継
+https://miyukimedaka.com/2020/06/07/0143-jupyterlab-explanation/
 
 ## Docker Desktop
 
@@ -40,6 +52,11 @@ macOS なら楽ちんでいける。みんなマックにすればよかった�
 Thanks a lot!
 
 この線で行ってみよう。
+
+## VScode: Remote WSL もある。
+
+experimental と書いてあるが、
+授業で使うくらいなら大丈夫かな。
 
 ## VScode の python パッケージ
 
